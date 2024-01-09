@@ -79,10 +79,10 @@
         background-image: url("../images/higway.png");
       }
       .card:nth-child(3):before {
-        background-image: url("../images/g1.2.PNG");
+        background-image: url("../images/das.png");
       }
       .card:nth-child(4):before {
-        background-image: url("../images/proy14.jpg");
+        background-image: url("../images/g1.2.PNG");
       }
       .card:nth-child(5):before {
         background-image: url("../images/proy16.jpg");
