@@ -45,6 +45,7 @@
       @media (min-width: 600px) {
         .card {
           height: 350px;
+          width: 355px;
         }
       }
       .card:before {
@@ -74,6 +75,7 @@
       }
       .card:nth-child(1):before {
         background-image: url("../images/fut.png");
+        width: 100%;
       }
       .card:nth-child(2):before {
         background-image: url("../images/higway.png");
