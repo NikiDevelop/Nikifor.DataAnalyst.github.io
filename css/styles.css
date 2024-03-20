@@ -913,7 +913,7 @@ textarea {
     background-color: #f8f9fa !important;
     color: #191919;
     margin: 0 auto;
-    /*margin-top: -15%;*/
+    margin-top: -15%;
   }
 
   .post-articles2 {
@@ -1658,6 +1658,7 @@ li {
   margin-block: 25px;
   border: none;
   border-top: 1px solid rgba(81, 75, 74, 0.3);
+  margin-right: 7%;
 }
 
 @media (max-width: 767px) {
