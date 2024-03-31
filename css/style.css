@@ -78,7 +78,7 @@
         width: 100%;
       }
       .card:nth-child(2):before {
-        background-image: url("../images/t4.jpg");
+        background-image: url("../images/t1.jpg");
       }
       .card:nth-child(3):before {
         background-image: url("../images/h1.jpg");
@@ -182,3 +182,23 @@
           transition-duration: 0s;
         }
       }     
+      .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+      }
+      .slider-container {
+        flex: 3;
+        overflow: hidden;
+      }
+      
+      .slider {
+        display: flex;
+        transition: transform 0.5s ease;
+      }
+      
+      .slider img {
+        width: 100%;
+        height: auto;
+      }
